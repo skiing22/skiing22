@@ -7,13 +7,13 @@
   <a href="https://subhojit.pages.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/subhojitghosh2002/" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhamramola/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/Voidman23" target="_blank">
+  <a href="https://x.com/ramolashubham02" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:subhowork97@gmail.com">
+  <a href="mailto:ramolashubham02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>

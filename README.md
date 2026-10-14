@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Shubham!;Welcome+to+my+GitHub" alt="Typing SVG" />
 </h1>
-<h3 align="center">M.Tech CSE (Information Security) @ NIT Calicut | Machine Learning Enthusiast | Problem Solver </h3>
+<h3 align="center">M.Tech CSE (Information Security) @ NIT Calicut | Machine Learning Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubhamramola22" target="_blank">
@@ -10,7 +10,7 @@
   <a href="https://x.com/ramolashubham02" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:ramolashubham02@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramolashubham02@gmail.com&su=Hello%20Shubham" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/skiing22?tab=followers">
@@ -29,7 +29,7 @@
 | 📍 **Location** | Uttarkashi, Uttarakhand (currently in Kozhikode, Kerala, India) |
 | 🎓 **Education** | **M.Tech** CSE (Information Security), NIT Calicut, 2025 - Present, CGPA 8.45<br/>**B.Tech** CSE (AI and ML), GB Pant Institute of Engineering and Technology, Pauri, 2020 - 2024, CGPA 9.02 |
 | 💼 **Roles** | Teaching Assistant, System Programming Lab (Aug 2025 - Present)<br/>Branch Representative, CSED Student Governance Body (Jan 2026 - Present) |
-| 🔭 **Interests** | <img src="https://img.shields.io/badge/Machine%20Learning-2196F3?style=flat-square" alt="Machine Learning" /> <img src="https://img.shields.io/badge/Information%20Security-2196F3?style=flat-square" alt="Information Security" /> <img src="https://img.shields.io/badge/Cryptography-2196F3?style=flat-square" alt="Cryptography" /> <img src="https://img.shields.io/badge/Problem%20Solving-2196F3?style=flat-square" alt="Problem Solving" />
+| 🔭 **Interests** | <img src="https://img.shields.io/badge/Machine%20Learning-2196F3?style=flat-square" alt="Machine Learning" /> <img src="https://img.shields.io/badge/Information%20Security-2196F3?style=flat-square" alt="Information Security" /> <img src="https://img.shields.io/badge/Cryptography-2196F3?style=flat-square" alt="Cryptography" /> <img src="https://img.shields.io/badge/Problem%20Solving-2196F3?style=flat-square" alt="Problem Solving" /> |
 | 🌱 **Working on** | Efficient scalar multiplication on **Koblitz curves** (Elliptic Curve Cryptography), using NTL, GMP and SageMath, 2026 - Present |
 | 🚀 **Projects** | [**GeoVision**](https://github.com/skiing22/GeoVision): AI-driven disaster mapping and damage assessment (Python)<br/>**NITC Campus Facility Booking System**: full-stack MERN app for booking and managing campus resources |
 | 📫 **Contact** | ramolashubham02[at]gmail[dot]com |
@@ -79,7 +79,7 @@ I can explain machine learning to my friends but still struggle to explain why I
       <sub>Thoughts and updates</sub>
     </td>
     <td align="center">
-      <a href="mailto:ramolashubham02@gmail.com">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramolashubham02@gmail.com&su=Hello%20Shubham" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a><br/>
       <sub>Drop me a mail</sub>

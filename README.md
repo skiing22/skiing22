@@ -28,7 +28,6 @@
 | Field | Details |
 |:------|:--------|
 | 👤 **Name** | Shubham Ramola |
-| 🏷️ **Pronouns** | he/him |
 | 📍 **Location** | Uttarkashi, Uttarakhand (currently in Kozhikode, Kerala, India) |
 | 🎓 **Education** | **M.Tech** CSE (Information Security), NIT Calicut, 2025 - Present, CGPA 8.45<br/>**B.Tech** CSE (AI and ML), GB Pant Institute of Engineering and Technology, Pauri, 2020 - 2024, CGPA 9.02 |
 | 💼 **Roles** | Teaching Assistant, System Programming Lab (Aug 2025 - Present)<br/>Branch Representative, CSED Student Governance Body (Jan 2026 - Present) |

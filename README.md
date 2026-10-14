@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Shubham!;Welcome+to+my+GitHub" alt="Typing SVG" />
 </h1>
-<h3 align="center">An aspiring developer and data enthusiast from India</h3>
+<h3 align="center">M.Tech CSE (Information Security) @ NIT Calicut | Machine Learning Enthusiast | Problem Solver | Cinephile</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubhamramola/" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhamramola22" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/ramolashubham02" target="_blank">
@@ -26,10 +26,12 @@
 |:------|:--------|
 | 👤 **Name** | Shubham Ramola |
 | 🏷️ **Pronouns** | he/him |
-| 📍 **Location** | India |
-| 💼 **Status** | Aspiring developer and data enthusiast |
-| 🔭 **Interests** | <img src="https://img.shields.io/badge/Machine%20Learning-2196F3?style=flat-square" alt="Machine Learning" /> <img src="https://img.shields.io/badge/Mathematics-2196F3?style=flat-square" alt="Mathematics" /> <img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=flat-square" alt="Computer Vision" /> |
-| 🌱 **Learning** | <img src="https://img.shields.io/badge/Web3-2EA44F?style=flat-square" alt="Web3" /> <img src="https://img.shields.io/badge/Blockchain-2EA44F?style=flat-square" alt="Blockchain" /> <img src="https://img.shields.io/badge/Smart%20Contracts-2EA44F?style=flat-square" alt="Smart Contracts" /> |
+| 📍 **Location** | Uttarkashi, Uttarakhand (currently in Kozhikode, Kerala, India) |
+| 🎓 **Education** | **M.Tech** CSE (Information Security), NIT Calicut, 2025 - Present, CGPA 8.45<br/>**B.Tech** CSE (AI and ML), GB Pant Institute of Engineering and Technology, Pauri, 2020 - 2024, CGPA 9.02 |
+| 💼 **Roles** | Teaching Assistant, System Programming Lab (Aug 2025 - Present)<br/>Branch Representative, CSED Student Governance Body (Jan 2026 - Present) |
+| 🔭 **Interests** | <img src="https://img.shields.io/badge/Machine%20Learning-2196F3?style=flat-square" alt="Machine Learning" /> <img src="https://img.shields.io/badge/Information%20Security-2196F3?style=flat-square" alt="Information Security" /> <img src="https://img.shields.io/badge/Cryptography-2196F3?style=flat-square" alt="Cryptography" /> <img src="https://img.shields.io/badge/Problem%20Solving-2196F3?style=flat-square" alt="Problem Solving" /> <img src="https://img.shields.io/badge/Cinema-2196F3?style=flat-square" alt="Cinema" /> |
+| 🌱 **Working on** | Efficient scalar multiplication on **Koblitz curves** (Elliptic Curve Cryptography), using NTL, GMP and SageMath, 2026 - Present |
+| 🚀 **Projects** | [**GeoVision**](https://github.com/skiing22/GeoVision): AI-driven disaster mapping and damage assessment (Python)<br/>**NITC Campus Facility Booking System**: full-stack MERN app for booking and managing campus resources |
 | 📫 **Contact** | ramolashubham02[at]gmail[dot]com |
 
 <details>
@@ -44,10 +46,10 @@ I can explain machine learning to my friends but still struggle to explain why I
 
 | Category | Technologies |
 |:---------|:-------------|
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" /> |
-| **ML and CV** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> |
-| **Web3** | <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" /> <img src="https://img.shields.io/badge/Smart%20Contracts-363636?style=flat-square&logo=solidity&logoColor=white" alt="Smart Contracts" /> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /> |
+| **Languages** | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" /> |
+| **Web and Frameworks** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> |
+| **Security and Math** | <img src="https://img.shields.io/badge/NTL-363636?style=flat-square" alt="NTL" /> <img src="https://img.shields.io/badge/GMP-363636?style=flat-square" alt="GMP" /> <img src="https://img.shields.io/badge/SageMath-363636?style=flat-square" alt="SageMath" /> <img src="https://img.shields.io/badge/Elliptic%20Curve%20Cryptography-2EA44F?style=flat-square" alt="Elliptic Curve Cryptography" /> |
+| **Developer Tools** | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" alt="VS Code" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> |
 
 ---
 
@@ -55,17 +57,17 @@ I can explain machine learning to my friends but still struggle to explain why I
 
 <p align="center">
   Open to chats and collaborations on
-  <img src="https://img.shields.io/badge/ML-2196F3?style=flat-square" alt="ML" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=flat-square" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Mathematics-2196F3?style=flat-square" alt="Mathematics" />
-  <img src="https://img.shields.io/badge/Web3-2EA44F?style=flat-square" alt="Web3" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-2196F3?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Information%20Security-2196F3?style=flat-square" alt="Information Security" />
+  <img src="https://img.shields.io/badge/Cryptography-2196F3?style=flat-square" alt="Cryptography" />
+  <img src="https://img.shields.io/badge/Full%20Stack-2EA44F?style=flat-square" alt="Full Stack" />
 </p>
 
 <div align="center">
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/shubhamramola/" target="_blank">
+      <a href="https://www.linkedin.com/in/shubhamramola22" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a><br/>
       <sub>Professional network</sub>

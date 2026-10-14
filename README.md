@@ -22,28 +22,25 @@
 
 ## About Me
 
-```console
-shubham@github:~$ python about.py
+| Field | Details |
+|:------|:--------|
+| 👤 **Name** | Shubham Ramola |
+| 🏷️ **Pronouns** | he/him |
+| 📍 **Location** | India |
+| 💼 **Status** | Aspiring developer and data enthusiast |
+| 🔭 **Interests** | <img src="https://img.shields.io/badge/Machine%20Learning-2196F3?style=flat-square" alt="Machine Learning" /> <img src="https://img.shields.io/badge/Mathematics-2196F3?style=flat-square" alt="Mathematics" /> <img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=flat-square" alt="Computer Vision" /> |
+| 🌱 **Learning** | <img src="https://img.shields.io/badge/Web3-2EA44F?style=flat-square" alt="Web3" /> <img src="https://img.shields.io/badge/Blockchain-2EA44F?style=flat-square" alt="Blockchain" /> <img src="https://img.shields.io/badge/Smart%20Contracts-2EA44F?style=flat-square" alt="Smart Contracts" /> |
+| 📫 **Contact** | ramolashubham02[at]gmail[dot]com |
 
-  name       : Shubham Ramola
-  pronouns   : he/him
-  location   : India
-  status     : Aspiring developer and data enthusiast
-  interests  : Machine Learning | Mathematics | Computer Vision
-  learning   : Web3 | Blockchain | Smart Contracts
-  contact    : ramolashubham02[at]gmail[dot]com
-  fun_fact   : Can explain ML to friends, can't explain why 40 tabs are open.
-
-Process finished with exit code 0
-```
+<details>
+<summary>⚡ <b>Fun fact (click to reveal)</b></summary>
+<br>
+I can explain machine learning to my friends but still struggle to explain why I need so many tabs open!
+</details>
 
 ---
 
 ## Tech Stack
-
-```console
-shubham@github:~$ python stack.py --show
-```
 
 | Category | Technologies |
 |:---------|:-------------|
@@ -56,21 +53,35 @@ shubham@github:~$ python stack.py --show
 
 ## Let's Connect
 
-```console
-shubham@github:~$ python connect.py "Computer Vision"
-
-  >>> Let's talk!
-  >>> Open to: ML | Computer Vision | Mathematics | Web3 | Collaborations
-```
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubhamramola/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/ramolashubham02" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:ramolashubham02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  Open to chats and collaborations on
+  <img src="https://img.shields.io/badge/ML-2196F3?style=flat-square" alt="ML" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Mathematics-2196F3?style=flat-square" alt="Mathematics" />
+  <img src="https://img.shields.io/badge/Web3-2EA44F?style=flat-square" alt="Web3" />
 </p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/shubhamramola/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a><br/>
+      <sub>Professional network</sub>
+    </td>
+    <td align="center">
+      <a href="https://x.com/ramolashubham02" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      </a><br/>
+      <sub>Thoughts and updates</sub>
+    </td>
+    <td align="center">
+      <a href="mailto:ramolashubham02@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a><br/>
+      <sub>Drop me a mail</sub>
+    </td>
+  </tr>
+</table>
+</div>

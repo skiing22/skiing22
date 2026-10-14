@@ -4,6 +4,9 @@
 <h3 align="center">M.Tech CSE (Information Security) @ NIT Calicut | Machine Learning Enthusiast | Problem Solver</h3>
 
 <p align="center">
+  <a href="https://skiing22.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/shubhamramola22" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -32,6 +35,7 @@
 | 🔭 **Interests** | <img src="https://img.shields.io/badge/Machine%20Learning-2196F3?style=flat-square" alt="Machine Learning" /> <img src="https://img.shields.io/badge/Information%20Security-2196F3?style=flat-square" alt="Information Security" /> <img src="https://img.shields.io/badge/Cryptography-2196F3?style=flat-square" alt="Cryptography" /> <img src="https://img.shields.io/badge/Problem%20Solving-2196F3?style=flat-square" alt="Problem Solving" /> |
 | 🌱 **Working on** | Efficient scalar multiplication on **Koblitz curves** (Elliptic Curve Cryptography), using NTL, GMP and SageMath, 2026 - Present |
 | 🚀 **Projects** | [**GeoVision**](https://github.com/skiing22/GeoVision): AI-driven disaster mapping and damage assessment (Python)<br/>**NITC Campus Facility Booking System**: full-stack MERN app for booking and managing campus resources |
+| 🌐 **Portfolio** | [skiing22.github.io](https://skiing22.github.io) |
 | 📫 **Contact** | ramolashubham02[at]gmail[dot]com |
 
 <details>
@@ -66,6 +70,12 @@ I can explain machine learning to my friends but still struggle to explain why I
 <div align="center">
 <table>
   <tr>
+    <td align="center">
+      <a href="https://skiing22.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+      </a><br/>
+      <sub>My portfolio</sub>
+    </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/shubhamramola22" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
